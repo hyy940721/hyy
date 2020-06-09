@@ -1,0 +1,12 @@
+2020-06-08 19:37:06,997 INFO [root] [__init__.py(<module>:8)] - Test日志会不会打印！！！
+2020-06-08 19:37:07,497 INFO [root] [test_login_params.py(test01_login:30)] - 登录的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '2e23926d-4108-400e-9050-b233356a54f6'}
+2020-06-08 19:37:07,567 INFO [root] [test_login_params.py(test01_login:30)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-06-08 19:37:07,643 INFO [root] [test_login_params.py(test01_login:30)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-06-08 19:37:07,727 INFO [root] [test_login_params.py(test01_login:30)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-06-08 19:37:07,817 INFO [root] [test_login_params.py(test01_login:30)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-06-08 19:37:07,897 INFO [root] [test_login_params.py(test01_login:30)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-06-08 19:37:07,977 INFO [root] [test_login_params.py(test01_login:30)] - 登录的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '996466fb-d464-4bd1-9b6c-8d76bcc9f66e'}
+2020-06-08 19:37:08,071 INFO [root] [test_login_params.py(test01_login:30)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-06-08 19:37:08,161 INFO [root] [test_login_params.py(test01_login:30)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-06-08 19:37:08,240 INFO [root] [test_login_params.py(test01_login:30)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-06-08 19:37:08,317 INFO [root] [test_login_params.py(test01_login:30)] - 登录的结果为：{'success': False, 'code': 99999, 'message': '抱歉，系统繁忙，请稍后重试！', 'data': None}
